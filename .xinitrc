@@ -50,6 +50,7 @@ fi
 
 setxkbmap us & 
 $HOME/.screenlayout/display.sh
+export $(dbus-launch)
 nitrogen --restore &
 xsetroot -cursor_name left
 picom -f &
