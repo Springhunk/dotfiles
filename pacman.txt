@@ -9,6 +9,7 @@ bat 0.18.1-1
 bison 3.7.6-1
 bspwm 0.9.10-1
 cmake 3.20.3-1
+cmatrix 2.0-2
 dmenu 5.0-1
 dosfstools 4.2-1
 efibootmgr 17-2
@@ -37,11 +38,15 @@ neofetch 7.1.0-2
 neovim 0.4.4-2
 networkmanager 1.30.4-3
 nitrogen 1.6.1-3
+nodejs 16.3.0-1
 os-prober 1.78-1
+packagekit 1.2.3-4
+packagekit-qt5 1.0.2-1
+pacman-contrib 1.4.0-3
 pamixer 1.4-5
 patch 2.7.6-8
 pavucontrol 1:4.0-2
-picom 8.2-1
+picom-jonaburg-git 0.1-4
 pkgconf 1.7.3-1
 polybar 3.5.6-1
 powerline 2.8.2-2
@@ -50,6 +55,7 @@ pulseaudio 14.2-3
 python-pip 20.3.1-1
 python-sphinx 4.0.2-1
 rofi 1.6.1-1
+siji-git r23.c691f20-2
 spicetify-cli 2.2.6-1
 spotify 1:1.1.56.595-1
 spotifywm-git 0.0.r2.690bd0d-1
@@ -57,6 +63,7 @@ sudo 1.9.7-1
 sxhkd 0.6.2-1
 texinfo 6.7-3
 thunar 4.16.8-1
+ttf-dejavu 2.37+18+g9b5d1b2f-3
 ttf-fira-code 5.2-1
 ttf-font-awesome 5.15.3-1
 vim 8.2.2891-1
@@ -113,3 +120,4 @@ xorg-xwd 1.0.7-2
 xorg-xwininfo 1.1.5-2
 xorg-xwud 1.0.5-2
 yay-bin 10.2.3-2
+zsh 5.8-1
