@@ -51,13 +51,16 @@ padding-right = 2
 module-margin-left = 1
 module-margin-right = 2
 
-font-0 = fixed:pixelsize=10;1
+font-0 = "Fira Code:pixelsize=10:weight=regular;1"
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
-font-2 = siji:pixelsize=10;1
+font-2 = "Fira Code:size=11:weight=regular;1"
+font-3 = Font Awesome 5 Free:pixelsize=12;1
+font-4 = Font Awesome 5 Free Solid:pixelsize=12;1
+font-5 = Font Awesome 5 Brands:pixelsize=12;1
 
-modules-left = bspwm
-modules-center = xwindow pacman-updates 
-modules-right = filesystem pulseaudio xkeyboard memory cpu eth temperature date powermenu
+modules-left = i3 bspwm
+modules-center = xwindow
+modules-right = filesystem pulseaudio xkeyboard memory cpu temperature date powermenu
 
 tray-position = right
 tray-padding = 2
@@ -88,7 +91,7 @@ label = %title:0:30:...%
 type = internal/xkeyboard
 blacklist-0 = num lock
 
-format-prefix = " "
+format-prefix = " "
 format-prefix-foreground = ${colors.foreground-alt}
 format-prefix-underline = ${colors.secondary}
 
@@ -106,7 +109,7 @@ interval = 25
 
 mount-0 = /
 
-label-mounted = %{F#0a81f5}%mountpoint%%{F-}: %percentage_used%%
+label-mounted = : %free%
 label-unmounted = %mountpoint% not mounted
 label-unmounted-foreground = ${colors.foreground-alt}
 
@@ -130,7 +133,7 @@ label-empty-foreground = ${colors.foreground-alt}
 label-empty-padding = 2
 
 ; Separator in between workspaces
-label-separator = |
+; label-separator = |
 
 [module/i3]
 type = internal/i3
@@ -216,7 +219,7 @@ label = %percentage:2%%
 [module/memory]
 type = internal/memory
 interval = 2
-format-prefix = " "
+format-prefix = " "
 format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #4bffdc
 label = %percentage_used%%
@@ -226,7 +229,7 @@ type = internal/network
 interface = net1
 interval = 3.0
 
-format-connected = <ramp-signal> <label-connected>
+format-connected =  <label-connected>
 format-connected-underline = #9f78e1
 label-connected = %essid%
 
@@ -249,7 +252,7 @@ interface = enp0s3
 interval = 3.0
 
 format-connected-underline = #55aa55
-format-connected-prefix = " "
+format-connected-prefix = " "
 format-connected-prefix-foreground = ${colors.foreground-alt}
 label-connected = %local_ip%
 
@@ -269,7 +272,7 @@ date-alt = " %Y-%m-%d"
 time = %H:%M
 time-alt = %H:%M:%S
 
-format-prefix = 
+format-prefix = 
 format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #0a6cf5
 
@@ -281,10 +284,10 @@ label = %date% %time%
 type = internal/pulseaudio
 
 format-volume = <label-volume> <bar-volume>
-label-volume = VOL %percentage%%
+label-volume =  %percentage%%
 label-volume-foreground = ${root.foreground}
 
-label-muted = 🔇 muted
+label-muted = 🔇 Muted
 label-muted-foreground = #666
 
 bar-volume-width = 10
@@ -391,26 +394,26 @@ expand-right = true
 
 format-spacing = 1
 
-label-open = 
+label-open = 
 label-open-foreground = ${colors.secondary}
-label-close =  cancel
+label-close =  Cancel
 label-close-foreground = ${colors.secondary}
 label-separator = |
 label-separator-foreground = ${colors.foreground-alt}
 
-menu-0-0 = reboot
+menu-0-0 =  Reboot
 menu-0-0-exec = menu-open-1
-menu-0-1 = power off
+menu-0-1 =  Power Off
 menu-0-1-exec = menu-open-2
 
-menu-1-0 = cancel
+menu-1-0 =  Cancel
 menu-1-0-exec = menu-open-0
 menu-1-1 = reboot
 menu-1-1-exec = sudo reboot
 
-menu-2-0 = power off
+menu-2-0 =  Power Off
 menu-2-0-exec = sudo poweroff
-menu-2-1 = cancel
+menu-2-1 =  Cancel
 menu-2-1-exec = menu-open-0
 
 [settings]

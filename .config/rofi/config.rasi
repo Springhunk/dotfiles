@@ -1,3 +1,4 @@
 configuration {
 	modi: "window";
 }
+@import "/usr/share/rofi/themes/Nord.rasi"
