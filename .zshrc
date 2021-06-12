@@ -86,7 +86,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Add wisely, as too many plugins slow down shell startup.
 source $ZSH/oh-my-zsh.sh
 
-plugins=(git, fzf, zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git, fzf, zsh-autosuggestions zsh-autocomplete zsh-syntax-highlighting)
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 source ~/.p10k.zsh
