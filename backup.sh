@@ -1,5 +1,6 @@
 declare -a directories=(
 	"$HOME/.config"
+	"$HOME/.local"
 	"$HOME/Downloads"
 	"$HOME/Pictures"
 	"$HOME/Pictures"

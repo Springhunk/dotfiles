@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/chico/.screenlayout/display" added="2021-06-07T06:06:55.306430Z" modified="2021-06-07T06:06:55.306434Z" visited="2021-06-07T06:06:55.306430Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2021-06-07T06:06:55.306432Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/Nord%20Mountain.jpg" added="2021-06-07T12:49:04.396287Z" modified="2021-06-07T12:49:05.238185Z" visited="2021-06-07T12:49:04.396288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-07T12:49:05.238182Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Pictures" added="2021-06-07T13:51:15.364570Z" modified="2021-07-03T02:37:55.503444Z" visited="2021-06-07T13:51:15.364570Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2021-07-03T02:37:55.503442Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Pictures/Wallpapers" added="2021-06-07T13:59:59.279562Z" modified="2021-06-07T13:59:59.279566Z" visited="2021-06-07T13:59:59.279563Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2021-06-07T13:59:59.279564Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg" added="2021-06-07T14:06:55.131455Z" modified="2021-06-07T14:06:55.131460Z" visited="2021-06-07T14:06:55.131455Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-07T14:06:55.131457Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/Fira%20Code%20Bold%20Nerd%20Font%20Complete.ttf" added="2021-06-10T03:14:46.862159Z" modified="2021-06-10T03:14:46.862168Z" visited="2021-06-10T03:14:46.862161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-10T03:14:46.862163Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/Fira%20Code%20Regular%20Nerd%20Font%20Complete.ttf" added="2021-06-10T03:15:07.493254Z" modified="2021-06-10T03:15:07.493262Z" visited="2021-06-10T03:15:07.493255Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-10T03:15:07.493258Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/.config/openbox/rc.xml" added="2021-07-02T07:12:43.894709Z" modified="2021-07-02T07:12:43.894713Z" visited="2021-07-02T07:12:43.894709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-07-02T07:12:43.894711Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/.config/openbox/menu.xml" added="2021-07-02T07:30:58.192121Z" modified="2021-07-02T07:30:58.192125Z" visited="2021-07-02T07:30:58.192121Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-07-02T07:30:58.192123Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/obliviousofcraps%20mf-dots%20master%20.themes-Bleu%2520Fonc%25C3%25A9.zip" added="2021-07-02T07:39:26.919666Z" modified="2021-07-02T07:43:11.094418Z" visited="2021-07-02T07:39:26.919667Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T07:43:11.094415Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/BleuFonce" added="2021-07-02T07:49:06.702822Z" modified="2021-07-02T07:49:06.702826Z" visited="2021-07-02T07:49:06.702822Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="obconf" exec="&apos;obconf %u&apos;" modified="2021-07-02T07:49:06.702824Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/BleuFonce.obt" added="2021-07-02T07:49:13.845114Z" modified="2021-07-02T07:49:13.845121Z" visited="2021-07-02T07:49:13.845115Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openbox-theme"/>
+        <bookmark:applications>
+          <bookmark:application name="obconf" exec="&apos;obconf %u&apos;" modified="2021-07-02T07:49:13.845117Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/obliviousofcraps%20mf-dots%20master%20.config-tint2.zip" added="2021-07-02T07:57:47.756253Z" modified="2021-07-02T07:57:47.756266Z" visited="2021-07-02T07:57:47.756255Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T07:57:47.756258Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/.config/tint2/executor/layout.sh" added="2021-07-02T08:00:50.866611Z" modified="2021-07-02T08:00:50.866617Z" visited="2021-07-02T08:00:50.866612Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-07-02T08:00:50.866614Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/product-sans.zip" added="2021-07-02T08:09:56.753218Z" modified="2021-07-02T08:09:56.753229Z" visited="2021-07-02T08:09:56.753220Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T08:09:56.753224Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/obliviousofcraps%20mf-dots%20master%20.icons.zip" added="2021-07-02T10:10:20.283005Z" modified="2021-07-02T10:10:20.283013Z" visited="2021-07-02T10:10:20.283007Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T10:10:20.283009Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/Poppins.zip" added="2021-07-02T10:14:12.362574Z" modified="2021-07-02T10:14:12.362582Z" visited="2021-07-02T10:14:12.362575Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T10:14:12.362578Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/obliviousofcraps%20mf-dots%20master%20.config-eww.zip" added="2021-07-02T10:19:25.354002Z" modified="2021-07-02T10:19:25.354008Z" visited="2021-07-02T10:19:25.354003Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T10:19:25.354005Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/obliviousofcraps%20mf-dots%20master%20.local-bin_scripts.zip" added="2021-07-02T10:25:28.886916Z" modified="2021-07-02T10:25:28.886924Z" visited="2021-07-02T10:25:28.886916Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T10:25:28.886919Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/nexa-icon.png" added="2021-07-02T12:13:54.897583Z" modified="2021-07-02T12:13:55.930865Z" visited="2021-07-02T12:13:54.897584Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T12:13:55.930862Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/code-icon.png" added="2021-07-02T12:18:10.093282Z" modified="2021-07-02T12:18:11.391782Z" visited="2021-07-02T12:18:10.093283Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T12:18:11.391779Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/icons8-camera-30.png" added="2021-07-02T12:25:45.269118Z" modified="2021-07-02T12:25:45.269126Z" visited="2021-07-02T12:25:45.269119Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T12:25:45.269122Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/icons8-keyboard-128.png" added="2021-07-02T12:26:14.358228Z" modified="2021-07-02T12:26:14.358242Z" visited="2021-07-02T12:26:14.358230Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T12:26:14.358235Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/icons8-settings-30.png" added="2021-07-02T12:27:19.215186Z" modified="2021-07-02T12:27:19.215193Z" visited="2021-07-02T12:27:19.215187Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T12:27:19.215190Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/icons8-speaker-30.png" added="2021-07-02T12:28:10.755897Z" modified="2021-07-02T12:28:10.755966Z" visited="2021-07-02T12:28:10.755898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T12:28:10.755961Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/icons8-wi-fi-30.png" added="2021-07-02T12:28:59.496561Z" modified="2021-07-02T12:28:59.496569Z" visited="2021-07-02T12:28:59.496562Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-02T12:28:59.496565Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/obliviousofcraps%20mf-dots%20master%20walls.zip" added="2021-07-03T02:35:42.693675Z" modified="2021-07-03T02:35:42.693810Z" visited="2021-07-03T02:35:42.693676Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-03T02:35:42.693806Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/obliviousofcraps%20mf-dots%20master%20.config-rofi.zip" added="2021-07-03T03:37:55.139828Z" modified="2021-07-03T03:37:55.139834Z" visited="2021-07-03T03:37:55.139829Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-03T03:37:55.139830Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/Downloads/obliviousofcraps%20mf-dots%20master%20.mpd.zip" added="2021-07-03T05:15:37.031842Z" modified="2021-07-03T05:15:37.031887Z" visited="2021-07-03T05:15:37.031876Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-03T05:15:37.031882Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chico/.zshrc" added="2021-07-04T10:42:02.578261Z" modified="2021-07-04T10:42:02.578265Z" visited="2021-07-04T10:42:02.578261Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-07-04T10:42:02.578263Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
