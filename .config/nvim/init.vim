@@ -10,6 +10,7 @@ set incsearch
 set noautoindent
 set showtabline=2
 set noshowmode
+set mouse=a
 
 colorscheme nord
 

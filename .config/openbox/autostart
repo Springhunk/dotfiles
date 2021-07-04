@@ -1,0 +1,9 @@
+picom &
+
+tint2 &
+tint2 -c /home/chico/.config/pills-apps.tint2rc &
+tint2 -c /home/chico/.config/pills-taskbar.tint2rc &
+tint2 -c /home/chico/.config/pills-tray.tint2rc &
+tint2 -c /home/chico/.config/pills-apps.tint2rc &
+
+nitrogen --restore &

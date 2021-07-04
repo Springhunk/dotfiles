@@ -14,9 +14,9 @@ fi
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 export ZSH_CUSTOM=$ZSH/custom
-export SPICETIFY_INSTALL=$HOME/spicetify-cli
-export PATH=../../scripts/styli.sh:$PATH
-export PATH=$SPICETIFY_INSTALL:$PATH
+export PATH=~/spicetify-cli/spicetify
+export PATH=$HOME/.local/bin:$PATH
+export PATH=/bin:$PATH
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -86,10 +86,11 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Add wisely, as too many plugins slow down shell startup.
 source $ZSH/oh-my-zsh.sh
 
-plugins=(git, fzf, zsh-autosuggestions zsh-autocomplete zsh-syntax-highlighting)
+plugins=(zsh-autocomplete zsh-syntax-highlighting)
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 source ~/.p10k.zsh
+source ~/.oh-my-zsh/plugins/git/git.plugin.zsh
 
 # User configuration
 
@@ -120,4 +121,29 @@ source ~/.p10k.zsh
 alias ls="ls -l"
 alias cls="clear"
 alias py="python"
+
+# Config files
+alias nvimconf="nvim ~/.config/nvim/init.vim"
+alias alacrittyconf="nvim ~/.config/alacritty/alacritty.yml"
+alias bspwmconf="nvim ~/.config/bspwm/bspwmrc"
+alias dunstconf="nvim ~/.config/dunst/dunstrc"
+alias ewwconf="nvim ~/.config/eww/eww.xml"
+alias geanyconf="nvim ~/.config/geany/geany.conf"
+alias mpdconf="nvim ~/.mpd/mpd.conf"
+alias roficonf="nvim ~/.config/rofi/config.rasi"
+alias ncmpcppconf="nvim ~/.ncmpcpp/config"
+alias neofetchconf="nvim ~/.config/neofetch/config.conf"
+alias openboxconf="cd ~/.config/openbox/"
+alias i3conf="nvim ~/.config/i3/config"
+alias picomconf="nvim ~/.config/picom/picom.conf"
+alias polybarconf="nvim ~/.config/polybar/config"
+alias sxhkd="nvim ~/.config/sxhkd/sxhkdrc"
+alias tint2config="nvim ~/.config/tint2/tint2rc"
+alias kittyconf="nvim ~/.config/kitty/kitty.conf"
+alias zshrcconf="nvim ~/.zshrc"
+
+# Themes
+alias alac-nord="alacritty-colorscheme apply Nord.yml"
+alias alac-ob-dark="alacritty-colorscheme apply Oblivion-Dark.yml"
+alias alac-one-dark="alacritty-colorscheme apply One-Dark.yml"
 

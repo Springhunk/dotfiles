@@ -124,7 +124,7 @@ super + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
 
 super + x 
-	dm-tool lock
+	betterlockscreen -l dimblur
 
 super + ctrl + f 
 	flameshot

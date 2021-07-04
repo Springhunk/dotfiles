@@ -2,9 +2,11 @@ declare -a directories=(
 	"$HOME/.config"
 	"$HOME/Downloads"
 	"$HOME/Pictures"
+	"$HOME/Pictures"
 	"/etc/lightdm"
-	"$HOME/.oh_my_zsh"
 	"$HOME/.bashrc"
+	"$HOME/.themes"
+	"$HOME/.oh_my_zsh"
 	"$HOME/.zshrc"
 	"$HOME/.xinitrc"
 	"$HOME/.p10k.zsh"
@@ -26,6 +28,7 @@ copy() {
 	done
 	cp $0 $1
 	pacman -Qe > $1/pacman.txt
+	pip freeze > $1/requirements.txt
 }
 
 while getopts :d:h opt;

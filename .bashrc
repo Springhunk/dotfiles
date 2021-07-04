@@ -18,3 +18,4 @@ POWERLINE_BASH_SELECT=1
 export SPICETIFY_INSTALL="~/spicetify-cli"
 export PATH="../../scripts/styli.sh:$PATH"
 export PATH="SPICETIFY_INSTALL:$PATH"
+
